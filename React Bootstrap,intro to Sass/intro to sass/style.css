@@ -1,0 +1,19 @@
+
+body {
+  background-color: lightpink;
+}
+
+h1 {
+  color: yellow;
+  font-size: 5rem;
+  border: 3px solid #f0f0f0;
+}
+
+form div label {
+  color: aqua;
+  font-size: 3rem;
+}
+ div label{
+  color: blueviolet;
+  font-size: 2rem;
+ }
